@@ -152,3 +152,15 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+---
+
+## Contributors
+Our project's success is a testament to the power of teamwork and collaboration. Each member of our team brought unique skills, knowledge, and enthusiasm to the table, contributing to the project's development in diverse ways.
+Here are our group members:
+
+1. [Mangesh Pangam](https://github.com/Mangesh2704)
+
+2. [Rakshita Sarap](https://github.com/RakshitaSarap)
+
+3. [Saish Rane](https://github.com/saishrane-11)
