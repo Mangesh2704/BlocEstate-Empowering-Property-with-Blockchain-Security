@@ -1,0 +1,37 @@
+{
+  "name": "Modern 3 BHK in Vashi, Navi Mumbai",
+  "address": "Vashi, Navi Mumbai, Maharashtra 400703",
+  "description": "A well-designed 3 BHK apartment located in the heart of Navi Mumbai, close to shopping centers and public transport.",
+  "image": "https://5.imimg.com/data5/ANDROID/Default/2023/5/309841838/XI/DM/AX/98421711/product-jpeg-500x500.jpg",
+  "id": "5",
+  "attributes": [
+    {
+      "trait_type": "Purchase Price",
+      "value": 280
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Apartment"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 1800
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2015
+    },
+    {
+      "trait_type": "Location",
+      "value": "Vashi, Navi Mumbai"
+    }
+  ]
+}

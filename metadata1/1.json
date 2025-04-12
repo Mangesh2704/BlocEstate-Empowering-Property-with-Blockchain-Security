@@ -1,0 +1,37 @@
+{
+    "name": "Luxury Sea View Apartment in Marine Drive, Mumbai",
+    "address": "Marine Drive, Mumbai, Maharashtra 400002",
+    "description": "A 3-bedroom luxury apartment with breathtaking sea views, modern amenities, and prime location on Marine Drive.",
+    "image": "https://assets.architecturaldigest.in/photos/600822f8111eef0df0a1c613/16:9/w_2560%2Cc_limit/interior-design-this-apartment-in-mumbai-offers-a-stunning-view-of-marine-drive11-1366x768.jpg",
+    "id": "1",
+    "attributes": [
+      {
+        "trait_type": "Purchase Price",
+        "value": 650
+      },
+      {
+        "trait_type": "Type of Residence",
+        "value": "Apartment"
+      },
+      {
+        "trait_type": "Bedrooms",
+        "value": 3
+      },
+      {
+        "trait_type": "Bathrooms",
+        "value": 3
+      },
+      {
+        "trait_type": "Square Feet",
+        "value": 2500
+      },
+      {
+        "trait_type": "Year Built",
+        "value": 2020
+      },
+      {
+        "trait_type": "Location",
+        "value": "Marine Drive, Mumbai"
+      }
+    ]
+  }

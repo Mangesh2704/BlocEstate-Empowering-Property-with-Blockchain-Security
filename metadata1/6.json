@@ -1,0 +1,37 @@
+{
+  "name": "Luxury Apartment in Lower Parel, Mumbai",
+  "address": "Lower Parel, Mumbai, Maharashtra 400013",
+  "description": "A luxury apartment in one of Mumbai's most desirable locations, offering 3 bedrooms, high-end amenities, and an excellent view of the skyline.",
+  "image": "https://i.ytimg.com/vi/YPJPZ3oYO30/maxresdefault.jpg",
+  "id": "6",
+  "attributes": [
+    {
+      "trait_type": "Purchase Price",
+      "value": 220
+    },
+    {
+      "trait_type": "Type of Residence",
+      "value": "Apartment"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Square Feet",
+      "value": 2400
+    },
+    {
+      "trait_type": "Year Built",
+      "value": 2019
+    },
+    {
+      "trait_type": "Location",
+      "value": "Lower Parel, Mumbai"
+    }
+  ]
+}

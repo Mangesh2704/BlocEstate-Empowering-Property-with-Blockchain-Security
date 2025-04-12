@@ -1,0 +1,37 @@
+{
+    "name": "2 BHK Flat in Andheri, Mumbai",
+    "address": "Andheri West, Mumbai, Maharashtra 400058",
+    "description": "A modern 2-bedroom flat in the bustling area of Andheri West. Ideal for young professionals or small families.",
+    "image": "https://images.nobroker.in/images/8a9fbc8494640e650194644e17f4100f/8a9fbc8494640e650194644e17f4100f_214574_673010_medium.jpg",
+    "id": "3",
+    "attributes": [
+      {
+        "trait_type": "Purchase Price",
+        "value": 120
+      },
+      {
+        "trait_type": "Type of Residence",
+        "value": "Apartment"
+      },
+      {
+        "trait_type": "Bedrooms",
+        "value": 2
+      },
+      {
+        "trait_type": "Bathrooms",
+        "value": 2
+      },
+      {
+        "trait_type": "Square Feet",
+        "value": 1200
+      },
+      {
+        "trait_type": "Year Built",
+        "value": 2019
+      },
+      {
+        "trait_type": "Location",
+        "value": "Andheri, Mumbai"
+      }
+    ]
+  }
