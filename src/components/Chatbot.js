@@ -187,7 +187,7 @@ const Chatbot = () => {
           {
             headers: {
               'Content-Type': 'application/json',
-              'Authorization': `Bearer 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`, // Replace with your API key securely
+              'Authorization': `Bearer `, // Replace with your Open AI API key securely
             },
           }
         );
@@ -232,7 +232,7 @@ const Chatbot = () => {
           {
             headers: {
               'Content-Type': 'application/json',
-              'Authorization': `Bearer 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`, // Replace with your API key securely
+              'Authorization': `Bearer `, // Replace with your Open AI API key securely
             },
           }
         );
